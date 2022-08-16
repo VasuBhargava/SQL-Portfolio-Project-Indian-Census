@@ -1,1 +1,1 @@
-# SQL-Portfolio-Project-Indian-Census
+# SQL-Portfolio-Project
